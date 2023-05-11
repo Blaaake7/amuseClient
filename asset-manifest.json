@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Blaaake7/amuseClient/static/css/main.7b57ef3b.css",
+    "main.js": "/Blaaake7/amuseClient/static/js/main.52f2cbc5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Blaaake7/amuseClient/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/SeniorTitle.jpg": "/Blaaake7/amuseClient/static/media/SeniorTitle.13b8f8d26ceae9aa26d3.jpg",
+    "static/media/OnlineTourTitle.jpg": "/Blaaake7/amuseClient/static/media/OnlineTourTitle.be0d7e4e1dcf29839789.jpg",
+    "static/media/ChildTitle.jpg": "/Blaaake7/amuseClient/static/media/ChildTitle.4bfa229d8ff53119b87d.jpg",
+    "static/media/ConciergeTitle.jpg": "/Blaaake7/amuseClient/static/media/ConciergeTitle.d6164844544fff8894c5.jpg",
+    "static/media/seoul.jpg": "/Blaaake7/amuseClient/static/media/seoul.c44f50baa7bda252edff.jpg",
+    "static/media/gyeongsang.jpg": "/Blaaake7/amuseClient/static/media/gyeongsang.95442547a0079e639a45.jpg",
+    "static/media/jeonla.jpg": "/Blaaake7/amuseClient/static/media/jeonla.5ccc76281314a419d89b.jpg",
+    "static/media/chungcheong.jpg": "/Blaaake7/amuseClient/static/media/chungcheong.2b27d414912894755191.jpg",
+    "static/media/gangwon.jpg": "/Blaaake7/amuseClient/static/media/gangwon.7dc4cbea1de6a1ea9dd9.jpg",
+    "static/media/jeju.jpg": "/Blaaake7/amuseClient/static/media/jeju.54e21db56bbf050a6594.jpg",
+    "static/media/logo03.svg": "/Blaaake7/amuseClient/static/media/logo03.5a468e6c897619e83e32be7f8e538aa7.svg",
+    "static/media/boeing.jpg": "/Blaaake7/amuseClient/static/media/boeing.a399c5b995d3eece846f.jpg",
+    "static/media/logo02.svg": "/Blaaake7/amuseClient/static/media/logo02.22ee7014dd9399fe99393f029641af32.svg",
+    "static/media/bcorplogo.svg": "/Blaaake7/amuseClient/static/media/bcorplogo.4d24528e1dacebfd5a62732777f12d32.svg",
+    "static/media/logo04.svg": "/Blaaake7/amuseClient/static/media/logo04.6e72bfcade242cd4cc8e88294409e86c.svg",
+    "static/media/logo05.svg": "/Blaaake7/amuseClient/static/media/logo05.01ff0b79af3b3fe244a90822bb3fd794.svg",
+    "static/media/logo01.svg": "/Blaaake7/amuseClient/static/media/logo01.580a1287f14230e7713d12dcaf8ac090.svg",
+    "index.html": "/Blaaake7/amuseClient/index.html",
+    "main.7b57ef3b.css.map": "/Blaaake7/amuseClient/static/css/main.7b57ef3b.css.map",
+    "main.52f2cbc5.js.map": "/Blaaake7/amuseClient/static/js/main.52f2cbc5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Blaaake7/amuseClient/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b57ef3b.css",
+    "static/js/main.52f2cbc5.js"
+  ]
+}
